@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: rail_data
+    database: RAIL_DATA
+    schema: PUBLIC
+    tables:
+      - name: train_movement
+      - name: weather_data
+      - name: station_codes
+      - name: mapping
+      - name: train_movt_staging
+      - name: weather_data_staging

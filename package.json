@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async": "^3.2.6",
+    "kafkajs": "^2.2.4",
+    "snowflake-sdk": "^3.4.0",
+    "stompit": "^1.0.0"
+  }
+}
